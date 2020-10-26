@@ -1,0 +1,11 @@
+{
+    "files.watcherExclude": {
+        "**/.git/objects/**": true,
+        "**/.git/subtree-cache/**": true,
+        "**/node_modules/*/**": true,
+        "**/gtFine/**":true,
+        "**/leftImg8bit/**":true,
+        "**/masks/**":true
+    }
+
+}
